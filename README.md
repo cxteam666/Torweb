@@ -28,7 +28,7 @@ Advanced web application based on Tornado.
 
 ## Python Support
 
-- [x] Python 2.6.6 (Don't suggest)
+- [x] Python 2.6.x (Don't suggest)
 
 - [x] Python 2.7.x
 
